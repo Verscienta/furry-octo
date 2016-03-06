@@ -13,7 +13,7 @@
 (function ($, Drupal, window, document) {
 
   // To understand behaviors, see https://drupal.org/node/756722#behaviors
-  Drupal.behaviors.basic = {
+  Drupal.behaviors.furry-octo = {
     attach: function (context, settings) {
       $(window).load(function () {
         // Execute code once the window is fully loaded.

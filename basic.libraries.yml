@@ -2,15 +2,15 @@ global:
   version: VERSION
   css:
     base:
-      bower_components/normalize.css/normalize.css: {}
-      css/base/base.css: {}
+      css/node_modules/normalize.css/normalize.css: {}
+      css/base.min.css: {}
     layout:
-      css/layout/layout.css: {}
+      css/layout.min.css: {}
     component:
-      css/components/components.css: {}
+      css/components.min.css: {}
     theme:
-      css/theme/theme.css: {}
-      css/theme/print.css: { media: print }
+      css/theme.min.css: {}
+      css/print.min.css: { media: print }
   js:
     js/modernizr.js: {}
 
@@ -24,7 +24,7 @@ messages:
   version: VERSION
   css:
     component:
-      css/components/messages.css: {}
+      css/messages.min.css: {}
 
 ie8:
   version: VERSION
