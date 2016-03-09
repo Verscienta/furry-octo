@@ -1,6 +1,6 @@
 
 =====================
-Introduction to furry-octo
+Introduction to octo
 =====================
 
 Basic boasts a clean HTML5 structure with extensible CSS classes and IDs for

@@ -1,2 +1,2 @@
-# furry-octo
+# octo
 Drupal 8 theme for theEDU
