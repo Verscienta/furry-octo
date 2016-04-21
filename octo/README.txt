@@ -1,15 +1,12 @@
-ABOUT octo
+ABOUT OCTO
 -----------
 
-octo is a base theme that provides many classes in its markup. For cleaner
-markup (fewer classes), the default Stable base theme can be used instead.
+Octo is a theme that is based on Classy.
 
-To use octo as your base theme, set the 'base theme' in your theme's .info.yml
-file to "octo":
-  base theme: octo
-
-See https://www.drupal.org/theme-guide/8/octo for more information on using
-the octo theme.
+It includes:
+Bourbon 4.2.7 - http://bourbon.io
+Neat 1.7.4 - http://neat.bourbon.io
+Bitters 1.3.0 - http://bitters.bourbon.io
 
 ABOUT DRUPAL THEMING
 --------------------
